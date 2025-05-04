@@ -8,4 +8,6 @@ echo mlflow >> config/requirements.txt
 echo dvc >> config/requirements.txt
 echo ydata_profiling >> config/requirements.txt
 echo streamlit >> config/requirements.txt
+echo dtale >> config/requirements.txt
+echo plotly >> config/requirements.txt
 @echo "Archivo generado en el directorio config."

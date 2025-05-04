@@ -6,3 +6,5 @@ mlflow
 dvc 
 ydata_profiling 
 streamlit 
+dtale 
+plotly 

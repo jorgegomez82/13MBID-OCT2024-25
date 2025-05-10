@@ -1,0 +1,5 @@
+outs:
+- md5: bd2bd8e99b41596ebd6b31109c810ab6
+  size: 1875655
+  hash: md5
+  path: datos_finales_clusterizacion.csv
